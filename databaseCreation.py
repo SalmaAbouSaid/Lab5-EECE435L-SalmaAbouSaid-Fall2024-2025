@@ -109,9 +109,9 @@ def delete_user(user_id):
 
 #main 
 user = {
-    "name": "John Doe",
-    "email": "jondoe@gamil.com",
-    "phone": "067765434567",
-    "address": "John Doe Street, Innsbruck",
-    "country": "Austria"
+    "name": "Salma Abou Said",
+    "email": "salma.b.abousaid@gamil.com",
+    "phone": "96100000000",
+    "address": "Somewhere near a mountain or sea",
+    "country": "Lebanon"
 }
