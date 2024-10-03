@@ -115,4 +115,3 @@ user = {
     "address": "John Doe Street, Innsbruck",
     "country": "Austria"
 }
-insert_user(user)
